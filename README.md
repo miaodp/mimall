@@ -1,5 +1,5 @@
 # mimall
-
+这是一个基于vue全家桶实现的仿小米商城的购物平台。
 ## Project setup
 ```
 npm install
